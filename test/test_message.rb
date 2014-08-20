@@ -1,5 +1,5 @@
 require 'test_helper'
-class TestMessage < Test::Unit::TestCase
+class TestMessage < Minitest::Test
 
   context "A message" do
     setup do

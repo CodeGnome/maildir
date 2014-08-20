@@ -1,5 +1,5 @@
 require 'test_helper'
-class TestUniqueName < Test::Unit::TestCase
+class TestUniqueName < Minitest::Test
 
   context "A UniqueName" do
     setup do
