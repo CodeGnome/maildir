@@ -1,4 +1,4 @@
-require 'test/unit'
+require 'minitest/test'
 require 'shoulda'
 require 'maildir'
 
